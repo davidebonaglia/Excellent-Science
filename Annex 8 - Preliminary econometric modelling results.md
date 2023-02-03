@@ -107,7 +107,7 @@ Furthermore, to assess the unbiased effects of our independent variable, we cont
 
 
 ### 8.2.1. Results of the productivity model
-For ERC and MSCA programmes (Table 8.3), with respect to the influence of the number of research  areas attributed to the outputs, we can say that knowledge diversity positively affects productivity. In particular, if the number of research areas increases, the number of publications increases by 9.5%, and the citations by 12%. It is beneficial to diversify the knowledge, but too much diversification has a negative impact. 
+For ERC and MSCA programmes (Table 8.3), with respect to the influence of the number of research  areas attributed to the outputs, we can say that knowledge diversity positively affects productivity. In particular, one-unit increase in the number of research areas increases the number of publications by about 10%, and the citations by about 13%. It is beneficial to diversify the knowledge, but too much diversification has a negative impact. 
 
 In terms of project characteristics, we find that a rise in the project costs by 1% leads to fewer publications (an 8.1% reduction), and citations (21% less). An extension of the duration of the projects is associated with more publications and a higher number of citations.
 
@@ -115,6 +115,7 @@ For all the other programmes (Table 8.4), we observe a U-shape relationship betw
 In Table 8.4, we observe that the presence of US increases the number of publications, but not the number of citations. Having at least one UK country or China increases both the number of publications and citations. 
 
 Also, having at least one publication with open access boosts the number of citations received (42% more). With respect to funding effects, we find that having access to additional funding by a university, a governmental institution (Ministry), or a research Institute (next to EC funding) increases all the outcome variables. 
+
 
 **Table 8.3 Productivity model, ERC and MSCA programmes.**
 
@@ -149,9 +150,9 @@ Also, having at least one publication with open access boosts the number of cita
 |                                                   | (0.018)           | (0.048)         | (0.0051)                                        |
 | At least one country EU widening                  | \-0.12\*\*        | \-0.11          | 0.012                                           |
 |                                                   | (0.052)           | (0.13)          | (0.0086)                                        |
-| At least one country is not EU widening           | \-0.089\*         | \-0.056         | 0.010                                           |
+| At least one country is not EU MS Countries       | \-0.089\*         | \-0.056         | 0.010                                           |
 |                                                   | (0.046)           | (0.12)          | (0.0068)                                        |
-| At least one country is widening                  | 0.072             | \-0.25\*        | \-0.024\*\*                                     |
+| At least one country is Associated Countries      | 0.072             | \-0.25\*        | \-0.024\*\*                                     |
 |                                                   | (0.052)           | (0.14)          | (0.0094)                                        |
 | _Funding agency involved_                         |                   |                 |                                                 |
 | At least one funding agency is University         | 0.30\*\*\*        | 0.62\*\*\*      | 0.0052                                          |
@@ -217,7 +218,7 @@ Also, having at least one publication with open access boosts the number of cita
 |                                                   | (0.013)           | (0.039)        | (0.0031)                                        |
 | At least one country is China                     | 0.048\*\*\*       | 0.082\*        | 0.0050                                          |
 |                                                   | (0.016)           | (0.043)        | (0.0034)                                        |
-| At least one country is not EU widening           | \-0.017           | \-0.14\*\*\*   | \-0.0032                                        |
+| At least one country is not EU MS Countries       | \-0.017           | \-0.14\*\*\*   | \-0.0032                                        |
 |                                                   | (0.016)           | (0.045)        | (0.0035)                                        |
 | _Funding agency involved_                         |                   |                |                                                 |
 | At least one funding agency is University         | 0.21\*\*\*        | 0.36\*\*\*     | 0.0047                                          |
