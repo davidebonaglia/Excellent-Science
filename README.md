@@ -1,6 +1,7 @@
 # Evaluation Study of the European Framework Programmes for Research and Innovation for Excellent Science: Horizon 2020
 
 This repository contains the code (in Python and Stata) used for the study titled "Evaluation study of the European framework programmes for research and innovation for excellent science: Horizon 2020: phase 1 final study report", commissioned by the European Commission, Directorate-General for Research and Innovation.
+
 Link to the publication: https://op.europa.eu/en/publication-detail/-/publication/048c35b7-149e-11ee-806b-01aa75ed71a1/language-en
 
 ## Citation
