@@ -29,7 +29,7 @@ The UNU-MERIT team that contributed to this report consists of the following res
 
 Under the overall project leadership of PPMI and partnering with Idea Consult, the team worked on several aspects of the study, among which are two case studies on the H2020 Flagship projects “Graphene” and “Human Brain Project”, a bibliometric analysis assessing the efficiency of the H2020 programme parts and funding bodies, and two separate counterfactual analyses, consisting of multiple econometric models each with a different focus and different level of sophistication. The first analysis consists of a productivity model that looks at Horizon 2020 as a whole and its programmes in particular, while the second analysis is focused on the ERC and MSCA-IF (sub-)programmes, and uses several estimation strategies to assess their impact on funded researchers. This analysis looks at the impact of Horizon 2020 funding using pre- and post-grant data.
 
-** Other useful links
+## Other useful links
 * UNU-Merit article: https://www.merit.unu.edu/lessons-from-horizon-2020/
 * LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7112408556305272833/
 * X/Twitter: https://twitter.com/UNUMERIT/status/1706640972610691315?s=20
